@@ -1,0 +1,24 @@
+#VERSAO;2026-11-24-r2
+TIPO;CHAVE;MIN;MAX;FONTE;REGIAO;DATA_FONTE;OBS
+PRECO;Concreto feito na obra - sem betoneira (preparo, lançamento e adensamento);386.67;386.67;Lar Pontual Engenharia - Base (concreto feito na obra);SP capital, out/2026, sem BDI;2026-10-01;Equipe pedreiro + servente: 1,5 m³/dia (diária de R$ 580). Não inclui vibrador, fôrma e armação.
+PRECO;Concreto feito na obra - com betoneira 400 L (valor calculado);193.33;193.33;Lar Pontual Engenharia - valor calculado (diária R$ 580 / 3 m³ por dia);SP capital, out/2026;2026-10-01;Cálculo nosso: a fonte informa 3 m³/dia com betoneira. O aluguel da betoneira entra à parte.
+PRECO;Concretagem com concreto usinado (lançamento e adensamento);145;145;Lar Pontual Engenharia - Base (concretagem);SP capital, out/2026, sem BDI;2026-10-01;Equipe pedreiro + servente: 4 m³/dia. Não inclui fôrma, armação e escoramento.
+PRECO;Calçada de concreto externa, 6 cm (mão de obra);38;65;Lar Pontual Engenharia - tabela de contrapiso e regularização;Brasil (menor a maior estado), out/2026;2026-10-01;Faixa entre o estado de menor e o de maior custo de mão de obra, sem BDI.
+PRECO;Alvenaria de vedação - bloco cerâmico ou de concreto (mão de obra, SP);54;91;Lar Pontual Engenharia - Base, via Webgatz (nov/2026);SP capital, out/2026, sem BDI;2026-10-01;Sem material. A fonte agrupa bloco cerâmico e de concreto. Rendimento de 6 a 10 m²/dia.
+PRECO;Alvenaria bloco cerâmico 9x19x39 cm - mão de obra SINAPI;37.61;37.61;SINAPI/Caixa, via Projete.app (set/2026);SP, sem desoneração;2026-09-01;Custo com encargos, sem BDI, sem chapisco e reboco.
+PRECO;Alvenaria tijolo cerâmico 9x19x19 cm deitado - mão de obra SINAPI;88.24;88.24;SINAPI/Caixa, via Projete.app (set/2026);SP, sem desoneração;2026-09-01;Custo com encargos, sem BDI, sem chapisco e reboco.
+PRECO;Alvenaria bloco de concreto 14x19x39 cm - mão de obra SINAPI;54.11;54.11;SINAPI/Caixa, via Projete.app (set/2026);SP, sem desoneração;2026-09-01;Custo com encargos, sem BDI, sem chapisco e reboco.
+PRECO;Assentamento de porcelanato até 80x80 cm (mão de obra, SP);58;98;Lar Pontual Engenharia - Base, via Webgatz (nov/2026);SP capital, out/2026, sem BDI;2026-10-01;Sem material. Rendimento de 6 a 10 m²/dia.
+PRECO;Assentamento de cerâmica em piso ou parede (mão de obra, SP);43;74;Lar Pontual Engenharia - Base, via Webgatz (nov/2026);SP capital, out/2026, sem BDI;2026-10-01;Sem material. Rendimento de 8 a 12 m²/dia.
+PRECO;Reboco interno (mão de obra, SP);45;77;Lar Pontual Engenharia - Base, via Webgatz (nov/2026);SP capital, out/2026, sem BDI;2026-10-01;Sem material. Rendimento de 8 a 12 m²/dia.
+PRECO;Contrapiso aderido, 3 cm (mão de obra);35;60;Lar Pontual Engenharia - contrapiso (nov/2026);Brasil, out/2026, sem BDI;2026-10-01;Pedreiro + servente, não inclui material.
+PRECO;Remoção de piso antigo;31;53;Lar Pontual Engenharia - contrapiso (nov/2026);Brasil, out/2026;2026-10-01;Caçamba e descarte à parte.
+PRECO;Pintura simples (selador e 2 demãos) - faixa Lar Pontual;15;26;Lar Pontual Engenharia - preço de pintor (out/2026);SP, 2026;2026-10-21;Mão de obra.
+PRECO;Parede de drywall 2 faces simples - mão de obra SINAPI 96358 (SP);24.09;24.09;SINAPI/Caixa, via Projete.app (set/2026);SP, sem desoneração, set/2026;2026-09-01;Custo da mão de obra com encargos, sem BDI (25% do custo de R$ 95,95). É custo, não preço de venda: por isso fica abaixo das faixas de mercado.
+PRECO;Diária de pedreiro;200;350;Lar Pontual Engenharia - diária de pedreiro (08/10/2026);SP capital, out/2026;2026-10-08;Pedreiro qualificado, 8 h.
+PRECO;Diária de ajudante / servente;190;325;Lar Pontual Engenharia - diária de pedreiro (08/10/2026);SP capital, out/2026;2026-10-08;Ajudante de obras / servente.
+PRECO;Diária de equipe pedreiro + servente;580;580;Lar Pontual Engenharia - Base;SP capital, out/2026;2026-10-01;Valor usado pela fonte nas composições de concretagem.
+LIMITE;MEI;81000;;Receita Federal - LC 123/2006;Brasil, 2026;2026-11-24;LC 123, art. 18-A (R$ 6.750/mês no ano de abertura)
+LIMITE;ME;360000;;Receita Federal - LC 123/2006;Brasil, 2026;2026-11-24;Microempresa - LC 123, art. 3, inciso I
+LIMITE;EPP;4800000;;Receita Federal - LC 123/2006;Brasil, 2026;2026-11-24;Pequeno porte - LC 123, art. 3, inciso II (teto do Simples)
+LIMITE;Lucro Presumido;78000000;;Planalto - Lei 9.718/1998;Brasil, 2026;2026-11-24;Lei 9.718/1998, art. 13 (acima disso: Lucro Real)
